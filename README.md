@@ -4,12 +4,12 @@ A simple tool to limit your gaming time on Windows. Set how many minutes you wan
 
 ## Features
 
-- ⏱️ Set daily time limits for each game
-- 🎮 Automatically closes games when limit reached
-- ⚠️ Get warnings when 5 minutes left
-- 📊 See how much time you played today
-- 💾 Saves your settings automatically
-- ✅ 100% FREE - No ads, no cost
+-  Set daily time limits for each game
+-  Automatically closes games when limit reached
+-  Get warnings when 5 minutes left
+-  See how much time you played today
+-  Saves your settings automatically
+-  100% FREE - No ads, no cost
 
 ## How to Use
 
