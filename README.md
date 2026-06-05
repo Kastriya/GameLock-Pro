@@ -6,8 +6,6 @@ A simple tool to limit your gaming time on Windows. Set how many minutes you wan
 
 -  Set daily time limits for each game
 -  Automatically closes games when limit reached
--  Get warnings when 5 minutes left
--  See how much time you played today
 -  Saves your settings automatically
 -  100% FREE - No ads, no cost
 
@@ -18,14 +16,6 @@ A simple tool to limit your gaming time on Windows. Set how many minutes you wan
 3. Start monitoring
 4. Just play - it will stop the game when your time is up
 
-## Commands
-
-- `add` - Add a game
-- `remove` - Remove a game  
-- `start` - Start watching games
-- `stats` - See your game time
-- `list` - Show all games
-- `exit` - Close app
 
 ## Requirements
 
